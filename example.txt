@@ -1,2 +1,2 @@
-This is my first file in the Git tutorial.
+This is the conflicting line in the feature branch.
 This is a new line added in the feature branch!
