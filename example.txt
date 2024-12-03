@@ -1,2 +1,2 @@
-This is my first file in the Git tutorial.
+This is the modified line in the main branch.
 This is a new line added in the feature branch!
